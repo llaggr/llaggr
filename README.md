@@ -2,6 +2,14 @@
 Computer Engineering student with an interest in systems programming, Linux, algorithms, and low-level development.
 I enjoy understanding how systems work beneath the surface and spend most of my time working in Linux environments using C++ and terminal-based workflows.
 
+## Areas of Interest
+
+- C++
+- Linux & terminal-based environments
+- Algorithms & data structures
+- Systems programming
+- Debugging & GDB
+- Cybersecurity & CTFs
 <!--
 **llaggr/llaggr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
