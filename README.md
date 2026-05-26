@@ -1,6 +1,7 @@
 ## Hi there 👋
 Computer Engineering student with an interest in systems programming, Linux, algorithms, and low-level development.
 I enjoy understanding how systems work beneath the surface and spend most of my time working in Linux environments using C++ and terminal-based workflows.
+I primarily work in C++, but I enjoy adapting to different technologies depending on the project and its requirements.
 
 ## Areas of Interest
 
